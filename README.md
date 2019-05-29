@@ -1,6 +1,7 @@
 # Site of Real Estate Agency
 
-[TODO. There will be project description]
+Site with minimal features. Displays some information about the agency. 
+Url site [Real Estate Site] (https://mamedovvms.github.io)
 
 # Project Goals
 
