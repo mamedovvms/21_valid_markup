@@ -1,7 +1,7 @@
 # Site of Real Estate Agency
 
 Site with minimal features. Displays some information about the agency. 
-Url site [Real Estate Site] (https://mamedovvms.github.io)
+Url site [Real Estate Site] (https://mamedovvms.github.io/21_valid_markup/)
 
 # Project Goals
 
